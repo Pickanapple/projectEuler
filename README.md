@@ -19,288 +19,288 @@
 
 - [X]	10001st Prime	
 
-- []	Largest Product in a Series	
+- [ ]	Largest Product in a Series	
 
-- []	Special Pythagorean Triplet	
+- [ ]	Special Pythagorean Triplet	
 
-- []	Summation of Primes	
+- [ ]	Summation of Primes	
 
-- []	Largest Product in a Grid	
+- [ ]	Largest Product in a Grid	
 
-- []	Highly Divisible Triangular Number	
+- [ ]	Highly Divisible Triangular Number	
 
-- []	Large Sum	
+- [ ]	Large Sum	
 
-- []	Longest Collatz Sequence	
+- [ ]	Longest Collatz Sequence	
 
-- []	Lattice Paths	
+- [ ]	Lattice Paths	
 
-- []	Power Digit Sum	
+- [ ]	Power Digit Sum	
 
-- []	Number Letter Counts	
+- [ ]	Number Letter Counts	
 
-- []	Maximum Path Sum I	
+- [ ]	Maximum Path Sum I	
 
-- []	Counting Sundays	
+- [ ]	Counting Sundays	
 
-- []	Factorial Digit Sum	
+- [ ]	Factorial Digit Sum	
 
-- []	Amicable Numbers	
+- [ ]	Amicable Numbers	
 
-- []	Names Scores	
+- [ ]	Names Scores	
 
-- []	Non-Abundant Sums	
+- [ ]	Non-Abundant Sums	
 
-- []	Lexicographic Permutations	
+- [ ]	Lexicographic Permutations	
 	
-- []    1000-digit Fibonacci Number	
+- [ ]    1000-digit Fibonacci Number	
 
-- []	Reciprocal Cycles	
+- [ ]	Reciprocal Cycles	
 
-- []	Quadratic Primes	
+- [ ]	Quadratic Primes	
 
-- []	Number Spiral Diagonals	
+- [ ]	Number Spiral Diagonals	
 
-- []	Distinct Powers	
+- [ ]	Distinct Powers	
 
-- []	Digit Fifth Powers	
+- [ ]	Digit Fifth Powers	
 
-- []	Coin Sums	
+- [ ]	Coin Sums	
 
-- [] Pandigital Products	
+- [ ] Pandigital Products	
 
-- [] Digit Cancelling Fractions	
+- [ ] Digit Cancelling Fractions	
 
-- [] Digit Factorials	
+- [ ] Digit Factorials	
 
-- [] Circular Primes	
+- [ ] Circular Primes	
 
-- [] Double-base Palindromes	
+- [ ] Double-base Palindromes	
 
-- [] Truncatable Primes	
+- [ ] Truncatable Primes	
 
-- [] Pandigital Multiples	
+- [ ] Pandigital Multiples	
 
-- [] Integer Right Triangles	
+- [ ] Integer Right Triangles	
 
-- [] Champernowne's Constant	
+- [ ] Champernowne's Constant	
 
-- [] Pandigital Prime	
+- [ ] Pandigital Prime	
 
-- [] Coded Triangle Numbers	
+- [ ] Coded Triangle Numbers	
 
-- [] Sub-string Divisibility	
+- [ ] Sub-string Divisibility	
 
-- [] Pentagon Numbers	
+- [ ] Pentagon Numbers	
 
-- [] Triangular, Pentagonal, and Hexagonal	
+- [ ] Triangular, Pentagonal, and Hexagonal	
 
-- [] Goldbach's Other Conjecture	
+- [ ] Goldbach's Other Conjecture	
 
-- [] Distinct Primes Factors	
+- [ ] Distinct Primes Factors	
 
-- [] Self Powers	
+- [ ] Self Powers	
 
-- [] Prime Permutations	
+- [ ] Prime Permutations	
 
-- [] Consecutive Prime Sum	
+- [ ] Consecutive Prime Sum	
 
-- [] Prime Digit Replacements	
+- [ ] Prime Digit Replacements	
 
-- [] Permuted Multiples	
+- [ ] Permuted Multiples	
 
-- []Combinatoric Selections	
+- [ ]Combinatoric Selections	
 	
-- [] Poker Hands	
+- [ ] Poker Hands	
 
-- [] Lychrel Numbers	
+- [ ] Lychrel Numbers	
 
-- [] Powerful Digit Sum	
+- [ ] Powerful Digit Sum	
 
-- [] Square Root Convergents	
+- [ ] Square Root Convergents	
 
-- [] Spiral Primes	
+- [ ] Spiral Primes	
 
-- [] XOR Decryption	
+- [ ] XOR Decryption	
 
-- [] Prime Pair Sets	
+- [ ] Prime Pair Sets	
 
-- [] Cyclical Figurate Numbers	
+- [ ] Cyclical Figurate Numbers	
 
-- [] Cubic Permutations	
+- [ ] Cubic Permutations	
 
-- [] Powerful Digit Counts	
+- [ ] Powerful Digit Counts	
 
-- [] Odd Period Square Roots	
+- [ ] Odd Period Square Roots	
 
-- [] Convergents of $e$
+- [ ] Convergents of $e$
 
-- [] Diophantine Equation	
+- [ ] Diophantine Equation	
 
-- [] Maximum Path Sum II	
+- [ ] Maximum Path Sum II	
 
-- [] Magic 5-gon Ring	
+- [ ] Magic 5-gon Ring	
 
-- [] Totient Maximum	
+- [ ] Totient Maximum	
 	
-- [] Totient Permutation	
+- [ ] Totient Permutation	
 
-- [] Ordered Fractions	
+- [ ] Ordered Fractions	
 	
-- [] Counting Fractions	
+- [ ] Counting Fractions	
 	
-- [] Counting Fractions in a Range	
+- [ ] Counting Fractions in a Range	
 	
-- [] Digit Factorial Chains	
+- [ ] Digit Factorial Chains	
 
-- [] Singular Integer Right Triangles	
+- [ ] Singular Integer Right Triangles	
 
-- [] Counting Summations	
+- [ ] Counting Summations	
 
-- [] Prime Summations	
+- [ ] Prime Summations	
 
-- [] Coin Partitions	
+- [ ] Coin Partitions	
 
-- [] Passcode Derivation	
+- [ ] Passcode Derivation	
 
-- [] Square Root Digital Expansion	
+- [ ] Square Root Digital Expansion	
 
-- [] Path Sum: Two Ways	
+- [ ] Path Sum: Two Ways	
 
-- [] Path Sum: Three Ways	
+- [ ] Path Sum: Three Ways	
 
-- [] Path Sum: Four Ways	
+- [ ] Path Sum: Four Ways	
 
-- [] Monopoly Odds	
+- [ ] Monopoly Odds	
 
-- [] Counting Rectangles	
+- [ ] Counting Rectangles	
 
-- [] Cuboid Route	
+- [ ] Cuboid Route	
 
-- [] Prime Power Triples	
+- [ ] Prime Power Triples	
 
-- [] Product-sum Numbers	
+- [ ] Product-sum Numbers	
 
-- [] Roman Numerals	
+- [ ] Roman Numerals	
 
-- [] Cube Digit Pairs	
+- [ ] Cube Digit Pairs	
 
-- [] Right Triangles with Integer Coordinates	
+- [ ] Right Triangles with Integer Coordinates	
 
-- [] Square Digit Chains	
+- [ ] Square Digit Chains	
 
-- [] Arithmetic Expressions	
+- [ ] Arithmetic Expressions	
 
-- [] Almost Equilateral Triangles	
+- [ ] Almost Equilateral Triangles	
 
-- [] Amicable Chains	
+- [ ] Amicable Chains	
 
-- [] Su Doku	
+- [ ] Su Doku	
 
-- [] Large Non-Mersenne Prime	
+- [ ] Large Non-Mersenne Prime	
 
-- [] Anagramic Squares	
+- [ ] Anagramic Squares	
 
-- [] Largest Exponential	
+- [ ] Largest Exponential	
 
-- [] Arranged Probability
+- [ ] Arranged Probability
     	
-- [] Optimum Polynomial	
+- [ ] Optimum Polynomial	
 
-- [] Triangle Containment	
+- [ ] Triangle Containment	
 
-- [] Special Subset Sums: Optimum	
+- [ ] Special Subset Sums: Optimum	
 
-- [] Pandigital Fibonacci Ends	
+- [ ] Pandigital Fibonacci Ends	
 
-- [] Special Subset Sums: Testing	
+- [ ] Special Subset Sums: Testing	
 
-- [] Special Subset Sums: Meta-testing	
+- [ ] Special Subset Sums: Meta-testing	
 
-- [] Minimal Network	
+- [ ] Minimal Network	
 
-- [] Diophantine Reciprocals I	
+- [ ] Diophantine Reciprocals I	
 
-- [] Darts	
+- [ ] Darts	
 
-- [] Diophantine Reciprocals II	
+- [ ] Diophantine Reciprocals II	
 
-- [] Primes with Runs	
+- [ ] Primes with Runs	
 
-- [] Bouncy Numbers	
+- [ ] Bouncy Numbers	
 
-- [] Non-bouncy Numbers	
+- [ ] Non-bouncy Numbers	
 
-- [] Counting Block Combinations I	
+- [ ] Counting Block Combinations I	
 
-- [] Counting Block Combinations II	
+- [ ] Counting Block Combinations II	
 
-- [] Red, Green or Blue Tiles	
+- [ ] Red, Green or Blue Tiles	
 
-- [] Red, Green, and Blue Tiles	
+- [ ] Red, Green, and Blue Tiles	
 
-- [] Pandigital Prime Sets	
+- [ ] Pandigital Prime Sets	
 
-- [] Digit Power Sum	
+- [ ] Digit Power Sum	
 
-- [] Square Remainders	
+- [ ] Square Remainders	
 
-- [] Disc Game Prize Fund	
+- [ ] Disc Game Prize Fund	
 
-- [] Efficient Exponentiation	
+- [ ] Efficient Exponentiation	
 
-- [] Prime Square Remainders	
+- [ ] Prime Square Remainders	
 
-- [] Ordered Radicals	
+- [ ] Ordered Radicals	
 
-- [] Palindromic Sums	
+- [ ] Palindromic Sums	
 
-- [] Cuboid Layers	
+- [ ] Cuboid Layers	
 
-- [] abc-hits	
+- [ ] abc-hits	
 
-- [] Hexagonal Tile Differences	
+- [ ] Hexagonal Tile Differences	
 
-- [] Repunit Divisibility	
+- [ ] Repunit Divisibility	
 
-- [] Composites with Prime Repunit Property	
+- [ ] Composites with Prime Repunit Property	
 
-- [] Prime Cube Partnership	
+- [ ] Prime Cube Partnership	
 
-- [] Large Repunit Factors	
+- [ ] Large Repunit Factors	
 
-- [] Repunit Nonfactors	
+- [ ] Repunit Nonfactors	
 
-- [] Prime Pair Connection	
+- [ ] Prime Pair Connection	
 
-- [] Same Differences	
+- [ ] Same Differences	
 
-- [] Singleton Difference	
+- [ ] Singleton Difference	
 
-- [] Fibonacci Golden Nuggets	
+- [ ] Fibonacci Golden Nuggets	
 
-- [] Special Isosceles Triangles	
+- [ ] Special Isosceles Triangles	
 
-- [] Pythagorean Tiles	
+- [ ] Pythagorean Tiles	
 
-- [] Modified Fibonacci Golden Nuggets	
+- [ ] Modified Fibonacci Golden Nuggets	
 
-- [] Square Progressive Numbers	
+- [ ] Square Progressive Numbers	
 
-- [] Perfect Square Collection	
+- [ ] Perfect Square Collection	
 
-- [] Torricelli Triangles	
+- [ ] Torricelli Triangles	
 	
-- [] Laser Beam Reflections 	
+- [ ] Laser Beam Reflections 	
 
-- [] Reversible Numbers	
+- [ ] Reversible Numbers	
 
-- [] Investigating a Prime Pattern 	
+- [ ] Investigating a Prime Pattern 	
 
-- [] Rectangles in Cross-hatched Grids	
+- [ ] Rectangles in Cross-hatched Grids	
 
-- [] Exploring Pascal's Triangle	
+- [ ] Exploring Pascal's Triangle	
 
-- [] Maximum-sum Subsequence	
+- [ ] Maximum-sum Subsequence	
 
-- [] Sub-triangle Sums
+- [ ] Sub-triangle Sums
