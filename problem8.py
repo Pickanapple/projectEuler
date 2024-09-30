@@ -14,4 +14,4 @@ def maxProduct(n=number, upper=13):
 
     return maxProduct
 
-print(maxProduct(upper=13))
+print(maxProduct())
