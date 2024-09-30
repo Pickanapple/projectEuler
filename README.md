@@ -5,13 +5,13 @@
 
 ## Projects:
 
-- [ ] [Multiples of 3 or 5](https://projecteuler.net/problem=1)
-- [ ] [Even Fibonacci Numbers](https://projecteuler.net/problem=2)
-- [ ] [Largest Prime Factor](https://projecteuler.net/problem=3)
-- [ ] [Largest Palindrome Product](https://projecteuler.net/problem=4)
-- [ ] [Smallest Multiple](https://projecteuler.net/problem=5)
-- [ ] [Sum Square Difference](https://projecteuler.net/problem=6)
-- [ ] [10001st Prime](https://projecteuler.net/problem=7)
+- [X] [Multiples of 3 or 5](https://projecteuler.net/problem=1)
+- [X] [Even Fibonacci Numbers](https://projecteuler.net/problem=2)
+- [X] [Largest Prime Factor](https://projecteuler.net/problem=3)
+- [X] [Largest Palindrome Product](https://projecteuler.net/problem=4)
+- [X] [Smallest Multiple](https://projecteuler.net/problem=5)
+- [X] [Sum Square Difference](https://projecteuler.net/problem=6)
+- [X] [10001st Prime](https://projecteuler.net/problem=7)
 - [ ] [Largest Product in a Series](https://projecteuler.net/problem=8)
 - [ ] [Special Pythagorean Triplet](https://projecteuler.net/problem=9)
 - [ ] [Summation of Primes](https://projecteuler.net/problem=10)
