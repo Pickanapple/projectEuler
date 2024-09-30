@@ -1,3 +1,7 @@
+#This was made for the updated README.md. I wanted to have a complete checklist of all the 
+#problems, as well as a link, but writing it all would have been very tedious. This was also
+#a good opportunity to practice web scraping.
+
 import requests
 from bs4 import BeautifulSoup as bs
 from requests.auth import HTTPBasicAuth
@@ -9,10 +13,26 @@ headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Ge
 
 basic = HTTPBasicAuth("scraper", "scraper1") #https://docs.python-requests.org/en/latest/user/authentication/
 
+problems = []
+
 for i in range (1, 19): #There are 18 pages of problems
     page = requests.get(url+str(i), headers=headers, auth=basic)
 
     soup = bs(page.content, "html.parser")
 
     results = soup.find(id="problems_table")
-    print(results.prettify())
+    
+    problemLinks = results.find_all("a")
+
+    for problemLink in problemLinks:
+        problemName = problemLink.text
+        problemURL = f"https://projecteuler.net/{problemLink['href']}"
+        
+        #We now need to format it to use in the markdown file
+
+        problemFormated = f"- [ ] [{problemName}]({problemURL})"
+
+        problems.append(problemFormated)
+
+for i in problems: 
+    print(i)
