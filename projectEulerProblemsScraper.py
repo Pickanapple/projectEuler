@@ -36,3 +36,4 @@ for i in range (1, 19): #There are 18 pages of problems
 
 for i in problems: 
     print(i)
+    print()
