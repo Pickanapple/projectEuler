@@ -35,5 +35,5 @@ for i in range (1, 19): #There are 18 pages of problems
         problems.append(problemFormated)
 
 for i in problems: 
-    print(i)
-    print()
+    with open("README.md", "a") as file:
+        file.write(i + "\n")
