@@ -109,7 +109,7 @@
 
 - [ ] [Permuted Multiples]
 
-- [ ]Combinatoric Selections] 
+- [ ] [Combinatoric Selections] 
 
 - [ ] [Poker Hands]
 
