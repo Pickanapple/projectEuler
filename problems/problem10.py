@@ -1,13 +1,22 @@
+primes = []
+
+#if any(t < 0 for t in x
+
 def isPrime(n):
-    for i in range (2, n//2  + 1):
+    for any(t < 10):
         if n % i == 0:
             return False
     else: 
+        primes.append(i)
         return True
     
-sum = 5 # We are starting with 2 + 3
+sum = 17
 
-for i in range(4, 2_000_000):
+list = [i for i in range(9, 2_000_000, 2)]
+print(list)
+
+for i in list:
+    print(f"{i}: {sum}")
     if isPrime(i):
         sum += i
 
