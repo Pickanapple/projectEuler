@@ -32,6 +32,7 @@ for i in range (1, 19): #There are 18 pages of problems
         #We now need to format it to use in the markdown file
 
         problemFormated = f"{problemNumber}. [ ] [{problemName}]({problemURL})"
+        problemNumber += 1
 
         problems.append(problemFormated)
 
