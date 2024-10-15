@@ -14,6 +14,7 @@ headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Ge
 basic = HTTPBasicAuth("scraper", "scraper1") #https://docs.python-requests.org/en/latest/user/authentication/
 
 problems = []
+problemNumber = 1
 
 for i in range (1, 19): #There are 18 pages of problems
     page = requests.get(url+str(i), headers=headers, auth=basic)
@@ -30,7 +31,7 @@ for i in range (1, 19): #There are 18 pages of problems
         
         #We now need to format it to use in the markdown file
 
-        problemFormated = f"- [ ] [{problemName}]({problemURL})"
+        problemFormated = f"{problemNumber}. [ ] [{problemName}]({problemURL})"
 
         problems.append(problemFormated)
 
