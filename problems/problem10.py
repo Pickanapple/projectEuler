@@ -1,14 +1,14 @@
-primes = []
+primes = [2, 3, 5, 7]
 
 #if any(t < 0 for t in x
 
 def isPrime(n):
-    for any(t < 10):
+    if any(i < n//2 for i in primes):
         if n % i == 0:
             return False
-    else: 
-        primes.append(i)
-        return True
+    
+    primes.append(i)
+    return True
     
 sum = 17
 
@@ -17,6 +17,7 @@ print(list)
 
 for i in list:
     print(f"{i}: {sum}")
+    print(primes)
     if isPrime(i):
         sum += i
 
