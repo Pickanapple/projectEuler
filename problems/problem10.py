@@ -34,11 +34,12 @@ def isPrime(n):
         return False
     
     for i in primes:
-        if i > n or i == primes[-1]:
+        
+        if n % i == 0:
+            return False
+        elif i == primes[-1]:
             primes.append(n)
             return True
-        elif n % i == 0:
-            return False
         
 
 for i in range (1000):
