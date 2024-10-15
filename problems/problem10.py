@@ -23,8 +23,8 @@ sum = 17
 list = [i for i in range(9, 2_000_000, 2)]
 
 for i in list:
-    #print(f"{i}: {sum}")
+    print(i)
     if isPrime(i):
         sum += i
 
-print(sum)
+print(f"Completed! The sum is {sum}")
