@@ -19,7 +19,7 @@
 - [X] [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)
 - [X] [Large Sum](https://projecteuler.net/problem=13)
 - [X] [Longest Collatz Sequence](https://projecteuler.net/problem=14)
-- [ ] [Lattice Paths](https://projecteuler.net/problem=15)
+- [X] [Lattice Paths](https://projecteuler.net/problem=15)
 - [ ] [Power Digit Sum](https://projecteuler.net/problem=16)
 - [ ] [Number Letter Counts](https://projecteuler.net/problem=17)
 - [ ] [Maximum Path Sum I](https://projecteuler.net/problem=18)
