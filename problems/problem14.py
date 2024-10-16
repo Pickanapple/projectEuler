@@ -12,4 +12,10 @@ def collatz(n):
 maxCount = 0
 
 for i in range(1, 1_000_001):
-    count = 
+    print(i)
+    count = collatz(i)
+    if count > maxCount:
+        maxCount = count
+        maxCountVar = i
+
+print(maxCountVar,":", maxCount)    
