@@ -16,7 +16,7 @@
 - [X] [Special Pythagorean Triplet](https://projecteuler.net/problem=9)
 - [X] [Summation of Primes](https://projecteuler.net/problem=10)
 - [X] [Largest Product in a Grid](https://projecteuler.net/problem=11)
-- [ ] [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)
+- [X] [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)
 - [ ] [Large Sum](https://projecteuler.net/problem=13)
 - [ ] [Longest Collatz Sequence](https://projecteuler.net/problem=14)
 - [ ] [Lattice Paths](https://projecteuler.net/problem=15)
