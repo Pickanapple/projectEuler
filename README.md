@@ -21,7 +21,7 @@
 - [X] [Longest Collatz Sequence](https://projecteuler.net/problem=14)
 - [X] [Lattice Paths](https://projecteuler.net/problem=15)
 - [X] [Power Digit Sum](https://projecteuler.net/problem=16)
-- [ ] [Number Letter Counts](https://projecteuler.net/problem=17)
+- [X] [Number Letter Counts](https://projecteuler.net/problem=17)
 - [ ] [Maximum Path Sum I](https://projecteuler.net/problem=18)
 - [ ] [Counting Sundays](https://projecteuler.net/problem=19)
 - [ ] [Factorial Digit Sum](https://projecteuler.net/problem=20)
