@@ -1,6 +1,6 @@
 triangle = []
 
-with open("67_triangle.txt") as file:
+with open("data/67_triangle.txt") as file:
     t = file.readlines()
 
     for i in t: 

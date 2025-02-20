@@ -1,5 +1,7 @@
 from functools import cache
 
+LIMIT = 10000
+
 @cache
 def sumDivisors(n): 
     divisors = set()
@@ -15,7 +17,7 @@ def sumDivisors(n):
     return sum(divisors)
 
 def amicable(n): 
-    if sumDivisors(sumDivisors(n)) == n:
+    if sumDivisors(sumDivisors(n)) == n and sumDivisors(n) != n:
         return True
     else: 
         return False
@@ -23,14 +25,8 @@ def amicable(n):
 total = 0
 foundPairs = set()
 
-for i in range(1, int(1E4)):
+for i in range(1, int(LIMIT)):
     if amicable(i):
-        otherNum = sumDivisors(i)
-        if otherNum < 1E4:
-            if otherNum not in foundPairs and i not in foundPairs:
-                foundPairs.add(i)
-                foundPairs.add(otherNum)
+        total += i
 
-                total += (i + otherNum)
-
-print(total)
+print(total)  
